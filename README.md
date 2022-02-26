@@ -8,8 +8,10 @@
 
 # Compress folder files to Zip
 A simple python script to compress `folders` and `files` to `zip`.
+
 ### Prerequisites
 - `Python 3`
+
 ### Usage
 > python zipfiles.py file_name(or folder name)
 ```python3
